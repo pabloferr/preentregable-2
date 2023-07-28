@@ -1,24 +1,74 @@
+.descuentos{
+    background-color:#073DEE;
+    font-size: 2rem;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+
+    
+}
+
+
+/*header*/
+
+header img{
+width: 25rem;
+}
+
 body {
     background-color: red;
 }
 
-.enlace-uno{
+header nav ul li{
     text-decoration:none ;
     color: black;
     font-size: 1.5rem;
-    background-color: yellow;
-}
+    background-color: yellow;}
 
-.enlace-dos{
+header nav ul li{
     text-decoration: none;
     color: black;
     font-size:1.5rem;
     background-color: yellow;
 }
 
-.enlace-tres{
-    text-decoration: none;
-    color: black;
-    font-size: 1.5rem;
-    background-color: yellow;
+.autos{
+        text-decoration: none;
+        color: black;
+        font-size:1.5rem;
+        background-color: yellow;
 }
+
+
+header{
+    display:flex;
+    justify-content:space-around;
+    align-items: center;
+    border-bottom: solid gray 2px;
+}
+
+header nav ul{
+    list-style: none;
+    display: flex;
+}
+
+header nav ul li{
+    margin: 10px;
+}
+
+section div h1{
+    color: white;
+    font-size: 2rem;
+}
+
+header nav ul li a{
+    margin: 25px;
+}
+
+form{
+    margin: 3px;
+}
+
+form input:focus{
+    border: 6px yellow solid ;
+}
+

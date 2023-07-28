@@ -1,0 +1,20 @@
+.navbar-expand-lg{
+    background-color: red !important ;
+    border-bottom: 2px solid black;
+}
+
+.navbar-navbar-expand-lg-bg-body-tertiary .conteiner-fluid .navbar-brand .nav-item .nav-link{
+    color: white;
+}
+ h1{
+    color:white;
+ }
+  
+ body{
+    background-color:#100E0D ;
+}
+
+h2{
+    color: white;
+}
+
