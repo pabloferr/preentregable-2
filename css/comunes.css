@@ -14,8 +14,10 @@ p{
     font-size: 2rem;
 }
 
-nav ul li a{
-    text-decoration: none;
-    color: white;
+footer p{
+    color: black;
+    text-align: center;
     font-size: 2rem;
+    font-family: 'Open Sans', sans-serif;
 }
+

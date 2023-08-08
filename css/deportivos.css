@@ -11,3 +11,10 @@ nav ul li a{
     color: white;
     font-size: 2rem;
 }
+
+footer p{
+    color: white;
+    text-align: center;
+    font-size: 2rem;
+    font-family:'Open Sans', sans-serif; 
+}

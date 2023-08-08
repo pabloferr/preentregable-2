@@ -14,16 +14,30 @@
     background-color:#100E0D ;
 }
 
+header nav ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 2rem;
+    background-color: red;
+}
+
 h2{
     color: white;
 }
- footer p{
-    color: blue;
-    text-align: center;
-    font-size: 2rem;
-    font-family:'Open Sans', sans-serif ;
-    background-color: red;
-    border-bottom: solid 100px red;
- }
 
+header nav ul li{
+    text-decoration: none;
+    color: white;
+    font-size: 1.5rem;
+    display:flex;
+}
+
+p{
+    color: white;
+    font-size: 1.5rem;
+}
+
+footer p{
+    color: white;
+}
 
